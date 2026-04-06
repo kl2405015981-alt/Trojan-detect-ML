@@ -1,0 +1,41 @@
+{
+  "whitelisted_hashes": [],
+  "whitelisted_publishers": [
+    "Microsoft Corporation",
+    "Google LLC",
+    "Mozilla Corporation",
+    "Git for Windows",
+    "Adobe Systems Incorporated",
+    "Apple Inc.",
+    "Oracle Corporation",
+    "Python Software Foundation",
+    "The Document Foundation",
+    "VideoLAN",
+    "Notepad++",
+    "7-Zip"
+  ],
+  "whitelisted_patterns": [
+    "chrome",
+    "firefox",
+    "git",
+    "python",
+    "notepad",
+    "visual studio",
+    "vscode",
+    "code.exe",
+    "adobe",
+    "microsoft",
+    "office",
+    "word",
+    "excel",
+    "powerpoint",
+    "vlc",
+    "7zip",
+    "winrar",
+    "steam",
+    "discord",
+    "spotify",
+    "zoom",
+    "teams"
+  ]
+}
