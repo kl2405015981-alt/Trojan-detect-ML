@@ -1,8 +1,0 @@
-Timestamp: 2026-04-01 14:30:30
-Precision: 100.00%
-Recall: 100.00%
-F1-Score: 100.00%
-True Negatives (TN): 505
-False Positives (FP): 0
-False Negatives (FN): 0
-True Positives (TP): 495
